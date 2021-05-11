@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is [Mahavir](https://github.com/mveer1/) 👋
 
 <!--
 **mveer1/mveer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mveer1}.${mveer1})
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mveer1&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&exclude_repo=google-colab-notebooks,oopsproject1)](https://github.com/anuraghazra/github-readme-stats) 
