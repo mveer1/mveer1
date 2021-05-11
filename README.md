@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mveer1}.${mveer1})
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-/github/commit-activity/:interval/:user/:repo
+<img height="1800em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
