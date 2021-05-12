@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mveer1&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&exclude_repo=google-colab-notebooks,oopsproject1)](https://github.com/anuraghazra/github-readme-stats) 
 
+![](https://komarev.com/ghpvc/?username=mveer1&color=blue&style=plastic&label=Profile+visits)
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mveer1}.${mveer1})
-
+-->
 <p align="left">
   <a href="www.linkedin.com/in/mahavir01"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> &ensp;
   <a href=""><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
