@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Python for Data Science and Machine Learning along with GoLang
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mveer1&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&exclude_repo=google-colab-notebooks,oopsproject1)](https://github.com/anuraghazra/github-readme-stats) 
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mveer1&layout=compact&langs_count=5&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![](https://komarev.com/ghpvc/?username=mveer1&color=blue&style=plastic&label=Profile+visits)
 <!--
