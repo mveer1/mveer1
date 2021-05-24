@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Python for Data Science and Machine Learning along with GoLang
+- 🌱 I’m currently learning Python for Data Science and Machine Learning and Go for CloudOps for AWS
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mveer1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=mveer1&layout=compact&langs_count=5&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
