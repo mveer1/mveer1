@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${mveer1}.${mveer1})
 -->
-- 📫 Find me here:  <p align="left">
-  <a href="www.linkedin.com/in/mahavir01"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> &ensp;
-  <a href=""><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-</p>
+[Look at my portfolio here](https://mveer1.github.io/)
